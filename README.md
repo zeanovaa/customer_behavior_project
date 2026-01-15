@@ -21,7 +21,6 @@ Discovered that Male customers contribute 68% of total revenue, challenging the 
 ├── power-bi-project.ipynb              # Python script for cleaning & feature engineering
 ├── customer_behavior.sql             # SQL scripts for business questions
 ├── customer_behavior_dashboard.pbix # Power BI file
-├── dashboard_screenshot.png         # Preview of the dashboard
 └── README.md
 ```
 
